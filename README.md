@@ -33,5 +33,5 @@
 <br>
 <br>
 
-
 <img align="left" alt="Shrey's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShreyB2091&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyB2091&langs_count=12&layout=compact&hide=jupyter%20notebook,html&theme=radical">
