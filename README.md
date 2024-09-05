@@ -4,10 +4,9 @@
 
 ## Hi there, I'm Shrey :trollface:
 
-- 🧑‍🎓 I'm a junior undergraduate at IIT Kanpur, pursuing my B.Tech in Computer Science and Engineering
-- 🌱 I’m currently learning AI/ML :robot: and Full-Stack Development 👨‍💻
-- 👯 I’m looking forward to start free-lancing
-- 🥅 2023 Goals: Do lots of projects
+- 🧑‍🎓 I'm a senior undergraduate at IIT Kanpur, pursuing my B.Tech in Computer Science and Engineering
+- 🌱 My primary interest is in topics related to systems like operating systems, compilers, and GPUs 👨‍💻
+- 🥅 2024 Goals: Contribute to research projects
 - ⚡ Fun fact: I love to draw and play guitar (still a learner)
 
 <br>
