@@ -4,10 +4,11 @@
 
 ## Hi there, I'm Shrey :trollface:
 
-- 🧑‍🎓 I graduated from IIT Kanpur in 2025, pursuing my B.Tech in Computer Science and Engineering. I'll be joining Georgia Tech in Fall'25 for my MS in CS.
-- 🌱 My primary interest is in topics related to systems like operating systems, compilers, and GPUs 👨‍💻
+- 🧑‍🎓 I graduated from IIT Kanpur in 2025, pursuing my B.Tech in Computer Science and Engineering. I joined Georgia Tech in Fall'25 for my MS in CS.
+- 🌱 My primary interest is in topics related to systems like operating systems, compilers, GPUs, Systems for AI/ML, and LLM inference
 - 🥅 2025 Goals: Contribute to research projects in Systems for AI domain
 - ⚡ Fun fact: I love to draw and play guitar (still a learner)
+- 🌐 Get to know more on my [personal website](https://shreyb2091.github.io)
 
 <br>
 
